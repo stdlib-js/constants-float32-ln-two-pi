@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_LN_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ln-two-pi@deno/mod.js';
+import FLOAT32_LN_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ln-two-pi@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_LN_TWO_PI
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_LN_TWO_PI === 1.8378770351409912 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_LN_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ln-two-pi@deno/mod.js';
+import FLOAT32_LN_TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-ln-two-pi@v0.1.1-deno/mod.js';
 
 console.log( FLOAT32_LN_TWO_PI );
 // => 1.8378770351409912
